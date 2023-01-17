@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #ee811a63;
+}
+.footer{
+    background-color: #ee811a63;
+}
+body{
+    background-image: url("../images/background.jpg");
+    background-color: #e9892f;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
