@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'diabeticpredictor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62DBF9672A3347EFA853467FECDEB9A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53C9EF4D099640109C0CBD2C8E97A3CE }}
